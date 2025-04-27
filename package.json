@@ -2,6 +2,7 @@
   "name": "practice-20.4",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://necokab2011.github.io/practice-20.4/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
@@ -16,6 +17,8 @@
     "parcel": "^2.14.4"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
+    "handlebars": "^4.7.8",
     "json-server": "^1.0.0-beta.3"
   }
 }
